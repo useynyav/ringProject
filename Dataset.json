@@ -1,6 +1,14 @@
-
+[
 {
     "id": 1,
     "username": "Elif Ece Gürbüz",
     "email": "elif@gmail.com"
+},
+
+{
+    "id": 2,
+    "username": "Hüseyin Yavuz",
+    "email": "huseyin@gmail.com"
 }
+
+]
